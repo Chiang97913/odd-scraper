@@ -4,7 +4,7 @@ bet365
 kaiyun
 <img width="1068" alt="kaiyun" src="https://github.com/Chiang97913/odd-scraper/assets/172517349/dba79558-fb46-469b-8d78-5927d45899e4">
 1xbet
-<img width="1230" alt="截屏2024-06-12 23 06 06" src="https://github.com/Chiang97913/odd-scraper/assets/172517349/33e8af16-7c65-4661-a750-c651456410af">
+<img width="1230" alt="1xbet" src="https://github.com/Chiang97913/odd-scraper/assets/172517349/33e8af16-7c65-4661-a750-c651456410af">
 dafabet
 <img width="1255" alt="sbobet" src="https://github.com/Chiang97913/odd-scraper/assets/172517349/940858d2-ee26-47af-b306-2f946db9fe61">
 pinnacle
