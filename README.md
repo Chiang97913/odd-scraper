@@ -1,2 +1,12 @@
-# odd-scraper
-dafabet,1xbet,sbobet,pinnacle,a188bet,bet365,kaiyun odds scraper
+bet365
+![截屏2024-06-12 23.12.47.png](..%2FDesktop%2F%E6%88%AA%E5%B1%8F2024-06-12%2023.12.47.png)
+kaiyun
+![截屏2024-06-12 23.19.45.png](..%2FDesktop%2F%E6%88%AA%E5%B1%8F2024-06-12%2023.19.45.png)
+1xbet
+![截屏2024-06-12 23.06.06.png](..%2FDesktop%2F%E6%88%AA%E5%B1%8F2024-06-12%2023.06.06.png)
+dafabet
+![截屏2024-06-12 23.06.32.png](..%2FDesktop%2F%E6%88%AA%E5%B1%8F2024-06-12%2023.06.32.png)
+pinnacle
+![截屏2024-06-12 23.06.51.png](..%2FDesktop%2F%E6%88%AA%E5%B1%8F2024-06-12%2023.06.51.png)
+sbobet
+![截屏2024-06-12 23.07.53.png](..%2FDesktop%2F%E6%88%AA%E5%B1%8F2024-06-12%2023.07.53.png)
