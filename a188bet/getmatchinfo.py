@@ -6,7 +6,7 @@ def add_12_hours_and_convert_to_timestamp(datetime_str):
     date_time_obj = datetime.datetime.fromisoformat(datetime_str) + datetime.timedelta(hours=12)
     return int(date_time_obj.timestamp())
 def get_jwt():
-    url="https://sports-launch-api.sbk-188bet.com/api/v1/member/login?c=44&u=https://www.amazingonline1b8e8t.com&reg=Korea&tz=480&pid=18802"
+    url="https://sports-launch-api.sports-188.com/api/v1/member/login?c=44&u=https://www.1eighty8one8eight1pal8.com&reg=China&q=&tz=480&pid=18802"
     req=robust_request(url,method="get")
     return req.headers["Authorization"]
 
