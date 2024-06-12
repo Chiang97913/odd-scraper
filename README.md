@@ -11,6 +11,9 @@ pinnacle
 <img width="1228" alt="pinnacle" src="https://github.com/Chiang97913/odd-scraper/assets/172517349/50baf9d8-d572-4592-8ae6-4678890a9f78">
 sbobet
 <img width="1153" alt="sbobet" src="https://github.com/Chiang97913/odd-scraper/assets/172517349/51d28999-bc3d-48e4-866b-85f76a1abb2a">
+
 if you u need bet365 or kaiyun.
+
 Generate x-net-sync-term using Python code, without using JavaScript, and without using Python automation tools (like Selenium, Playwright).
+
 contact me: dGc6QGppYmFoYW9kYQ==
