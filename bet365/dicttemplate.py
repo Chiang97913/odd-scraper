@@ -1,0 +1,10 @@
+dict_leagua_1 = {'d': 171231231, 'a': '1', 'b': 171231231, 'c': '#/AS/B1/K^5/',
+                 'e': 'Mozilla/5.0',
+                 'p': 171231231, 'g': '', 'h': 'I', 'n': 'null', 'o': '88', 'q': 0, 'r': 0,
+                 's': '59B4061EF0AC8D8BB18C821B14E167E8000003', 't': '-480',
+                 'u': '/splashcontentapi/soccertab?lid=10&zid=0&pd=%23AS%23B1%23K%5E5%23&cid=88&cgid=1&ctid=88', 'v': 2,
+                 'x': '', 'z': 'Asia/Shanghai',
+                 'f': {'i_c': 1, 'i_e': 171231231, 'i_n': 0, 'i_u': 15, 'i_r': 1, 'i_cl': 0, 'i_ev': 0,
+                       'i_ps': 764416712, 'uqid': '', 'fw': '110',
+                       'ua': 'Mozilla/5.0',
+                       'rf': 'Direct', 'i_l': 0, 'z': 't2', 'x': 's', 'i_z': 3, 'pi': '2'}}
